@@ -7,7 +7,7 @@ categories: [اعلام وضعیت, Guides]
 [my website](https://mirzakhaniali.github.io/mirzakhanialisite.github.io/)
 
 اینم یه عکس جالب که تو نت بود انداختم تو سایته . 
-![alt text](../assets/img/posts/Screenshot(120).png "اینه دیگه")
+![../assets/img/posts/Screenshot(120).png]("اینه دیگه")
 
 ---
 **Test**: This is atest
