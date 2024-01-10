@@ -2,11 +2,11 @@
 
 [![Gem Version](https://badge.fury.io/rb/jekyll-sleek.svg)](https://badge.fury.io/rb/jekyll-sleek) [![Build Status](https://travis-ci.org/janczizikow/sleek.svg?branch=master)](https://travis-ci.org/janczizikow/sleek) [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/janczizikow/sleek)
 
-A modern [Jekyll](https://jekyllrb.com/) theme focused on speed performance & SEO best practices.
+in site mast . aya midaestid emtehan c nazdik ast ? 
 
 > ⚠️ This theme is no longer actively maintained.
 
-![Sleek Jekyll Theme](./sleek.jpg)
+![safhe avval](./sleek.jpg)
 
 ## Features
 
@@ -102,7 +102,7 @@ Create a new Markdown file such as 2017-01-13-my-post.md in _post folder. Config
 ```yaml
 ---
 layout: post # needs to be post
-title: Getting Started with Sleek # title of your post
+title: salam # title of your post
 featured-img: sleek #optional - if you want you can include hero image
 ---
 ```
