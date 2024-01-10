@@ -1,0 +1,29 @@
+<!-- templates/user_inputs.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Inputs</title>
+</head>
+<body>
+
+    <h2>User Inputs</h2>
+
+    <table border="1">
+        <tr>
+            <th>Text</th>
+            <th>Number</th>
+        </tr>
+        {% for input in inputs %}
+            <tr>
+                <td>{{ input.text_field }}</td>
+                <td>{{ input.number_field }}</td>
+            </tr>
+        {% endfor %}
+    </table>
+
+</body>
+</html>
