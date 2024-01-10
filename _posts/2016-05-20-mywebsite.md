@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "chi begam ? vaziat ma sar jalase"
+title: "chi begam ? vaziat site"
 featured-img: shane-rounce-205187
 categories: [اعلام وضعیت, Guides]
 ---
